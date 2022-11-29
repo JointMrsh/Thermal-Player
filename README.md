@@ -1,2 +1,4 @@
-# Thermal-Player
-Thermal Player is a website that allows one to kick players that are currently in your game on the website using long polling.
+<div align="center">
+    <img src="https://www.dropbox.com/s/na9gni6smpr1p4b/Thermal%20Player.png?dl=0"/>
+    <div>&nbsp;</div>
+</div>
