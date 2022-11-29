@@ -12,6 +12,7 @@ Thermal allows a user to kick a player LIVE inside of a ROBLOX game externally.
 
 # Credits
 JointMrsh -> Roblox.lua Code
+
 ShouxTech -> index.html and index.js Code
 
 # License
